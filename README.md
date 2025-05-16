@@ -17,10 +17,10 @@ I'm a passionate and driven Computer Science & Engineering student at Centurion 
 
 ### 💼 Projects:
 
-- 📌 **Scholarship Portal** – Full-stack web app for applying and managing scholarships  
-- 📌 **Automated Attendance System** – QR-based attendance app with permanent code generation  
-- 📌 **Job Portal** – Platform for students and companies to connect for opportunities  
-- 📌 **Hostel Management System** – Online hostel allocation and request tracking
+- **Scholarship Portal** – Full-stack web app for applying and managing scholarships  
+- **Automated Attendance System** – QR-based attendance app with permanent code generation  
+- **Job Portal** – Platform for students and companies to connect for opportunities  
+- **Hostel Management System** – Online hostel allocation and request tracking
 
 ---
 
