@@ -3,17 +3,17 @@
   🚀 Full-Stack Developer | ☁️ Cloud Enthusiast | 🤖 Automation Explorer  
 </p>
 <p align="center">
-  <i>Building scalable solutions and real-world applications, one commit at a time.</i>
+  <i>Transforming ideas into scalable, production-ready solutions.</i>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 Computer Science & Engineering student at **Centurion University**, graduating in **2026**  
-💡 Passionate about **Full-Stack Web Development**, **Cloud Architecture**, and **Automation**  
-🌐 Love solving real-world problems through code  
-📈 Always learning, building, and optimizing
+🎓 Pursuing B.Tech in Computer Science & Engineering at **Centurion University**, graduating **2026**  
+💡 Focused on **Full-Stack Development**, **Cloud Architecture**, and **Automation Tools**  
+🧠 Enjoy solving real-world problems with scalable, maintainable solutions  
+📈 Committed to continuous learning and tech-driven innovation
 
 ---
 
@@ -60,19 +60,19 @@
 
 ## 📂 Featured Projects
 
-- 🎓 **Scholarship Portal** – Full-stack app for students to apply and manage scholarships  
-- 📷 **Automated Attendance System** – QR-based system with dynamic, secure code generation  
-- 💼 **Job Portal** – Connecting students with companies for internships and jobs  
-- 🏨 **Hostel Management System** – Online portal for room allocation and request tracking
+- 🎓 **Scholarship Portal** – A full-stack platform for students to apply and manage scholarships seamlessly  
+- 📷 **Automated Attendance System** – Secure QR-based attendance system with dynamic code generation  
+- 💼 **Job Portal** – Bridging students and companies through a structured job application system  
+- 🏨 **Hostel Management System** – Online hostel allocation and grievance tracking platform
 
 ---
 
 ## 🔭 Currently Working On
 
-- 🛠 Building cloud-native apps with AWS & Docker  
-- 🤖 Integrating AI/ML into full-stack applications  
-- 📚 Preparing for software development internships  
-- 🧪 Exploring DevOps pipelines and automation workflows  
+- ⚙️ Building scalable cloud-native applications using AWS and Docker  
+- 🤖 Exploring AI/ML integrations in full-stack apps  
+- 📦 Automating infrastructure with DevOps tools and CI/CD pipelines  
+- 🎯 Preparing for roles in software development and cloud engineering
 
 ---
 
@@ -85,4 +85,11 @@
   <a href="mailto:agrawaldina0521@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agrawaldinabandhu&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawaldinabandhu&layout=compact&theme=github_dark" height="150"/>
 </p>
